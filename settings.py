@@ -1,0 +1,14 @@
+# settings.py
+LARGURA = 1000
+ALTURA = 600
+FPS = 60
+
+COR_PLAYER = (139, 69, 19)
+COR_CHAO = (45, 52, 54)
+COR_CEU_BAIXO = (214, 48, 49) # A variável que deu erro
+COR_MOEDA = (255, 215, 0)
+
+GRAVIDADE = 0.8
+VEL_PULO = -16
+VEL_ANDAR = 7
+PONTOS_POR_MOEDA = 100
